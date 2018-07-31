@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "SMS",
+        "MSM",
+        "SMS"
+    ],
+    "key": {
+        "S": { "item": "minecraft:stone" },
+        "M": { "item": "minecraft:iron_ingot" }
+    },
+    "result": {
+        "item": "minecraft:iron_ore",
+        "count": 4
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "  M",
+        "MWM",
+        "MMM"
+    ],
+    "key": {
+        "M": { "item": "minecraft:gold_ingot" },
+        "W": { "item": "minecraft:wool" }
+    },
+    "result": {
+        "item": "minecraft:golden_horse_armor",
+        "count": 1
+    }
+}
