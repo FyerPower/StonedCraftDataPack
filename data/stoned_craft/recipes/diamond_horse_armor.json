@@ -7,7 +7,7 @@
     ],
     "key": {
         "M": { "item": "minecraft:diamond" },
-        "W": { "item": "minecraft:wool" }
+        "W": { "item": "minecraft:white_wool" }
     },
     "result": {
         "item": "minecraft:diamond_horse_armor",

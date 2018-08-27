@@ -7,7 +7,7 @@
     ],
     "key": {
         "M": { "item": "minecraft:iron_ingot" },
-        "W": { "item": "minecraft:wool" }
+        "W": { "item": "minecraft:white_wool" }
     },
     "result": {
         "item": "minecraft:iron_horse_armor",
